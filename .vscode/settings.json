@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ys": "asm-intel-x86-generic",
+    "stdio.h": "c",
+    "test1.h": "c"
+  }
+}
